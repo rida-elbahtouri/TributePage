@@ -1,0 +1,10 @@
+#title{
+    text-align: center;
+}
+#image{
+    width: 95vw;
+    height: 80vh;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
